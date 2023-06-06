@@ -36,6 +36,7 @@ input[type=checkbox] {
   /* HAMBURGER MENU */
   .hamburger {
     display: none;
+    color: #ffffff;
     font-size: 22px;
     user-select: none;
     cursor: pointer;
@@ -86,23 +87,6 @@ nav ul ul li{
 nav ul li a :active{
     background:gray;
 }
-.toggle{
-    position: absolute;
-    top: 2.5rem;
-    right: 1rem;
-    display: none;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 30px;
-    height: 21px;
-    cursor: pointer;
-}
-.toggle .bar{
-    height: 3px;
-    background-color: #ffffff;
-    width: 100%;
-    border-radius: 10px;
-}
 .show,input{
     display: none;
 }
@@ -151,9 +135,6 @@ nav ul li a :active{
   .menu li {
     margin-top: 25px;
   }
-
-
-  
     nav ul li:hover>ul{
         display: none;
     }
