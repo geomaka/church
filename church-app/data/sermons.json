@@ -1,0 +1,25 @@
+{
+    "videos":[{
+    "description": "God's promises never fail",
+    "video" : "Video/Disciples of Christ Church Kinoo - God's Promises Never Fail.mp4",
+    "activated" :true
+},
+{
+    "description": "Inquiring From our God",
+    "video" : "Video/Disciples of Christ Church Kinoo - Inquiring From our God.mp4",
+    "activated" :false
+   
+},
+{
+    "description": "MID-WEEK FELLOWSHIP",
+    "video" : "Video/MID-WEEK FELLOWSHIP.mp4",
+    "activated" :false
+    
+},
+{
+    "description": "sermon",
+    "video" : "Video/sermon.mp4",
+    "activated" :false
+   
+}]
+}
